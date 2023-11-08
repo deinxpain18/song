@@ -1,0 +1,32 @@
+{
+    "song1" : {
+       "song" : "Livin on a Prayer",
+       "artist" : "Bon Jovi",
+       "genre" : "Rock",
+       "link": "https://www.youtube.com/watch?v=lDK9QqIzhwk"
+    },
+    "song2" : {
+        "song" : "You Give Love A Bad Name",
+        "artist" : "Bon Jovi",
+        "genre" : "Rock",
+        "link": "https://www.youtube.com/watch?v=KrZHPOeOxQQ"
+     },
+     "song3" : {
+        "song" : "It's my life",
+        "artist" : "Bon Jovi",
+        "genre" : "Rock",
+        "link": "https://www.youtube.com/watch?v=vx2u5uUu3DE"
+     },
+     "song4" : {
+        "song" : "Bed of roses",
+        "artist" : "Bon Jovi",
+        "genre" : "Rock",
+        "link": "https://www.youtube.com/watch?v=NvR60Wg9R7Q"
+     },
+     "song5" : {
+        "song" : "You give love a bad name",
+        "artist" : "Bon Jovi",
+        "genre" : "Rock",
+        "link": "https://www.youtube.com/watch?v=S9tKwSboJeg"
+     }
+}
